@@ -17,7 +17,7 @@ USER= xxx
 PASS= yyy
 
 where you will add your Jenkins (xxx)username and (yyy)password.
-
+## Modify file
 review various commented function calls and uncomment the ones you need.
 ## Usage
 
