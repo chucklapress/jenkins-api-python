@@ -10,8 +10,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r requirements.txt
 ```
 
-## Usage
-In text editor add file .env
+## Modify folder
+In text editor add file .env .
 add the following text in .env file and save:
 USER= xxx
 PASS= yyy
@@ -19,6 +19,7 @@ PASS= yyy
 where you will add your Jenkins (xxx)username and (yyy)password.
 
 review various commented function calls and uncomment the ones you need.
+## Usage
 
 ```python
 python connect_api.py
