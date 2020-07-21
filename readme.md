@@ -12,8 +12,10 @@ pip install -r requirements.txt
 
 ## Modify folder
 In text editor add file .env .
-add the following text in .env file and save:
-USER= xxx
+add the following text in .env file and save:  
+
+USER= xxx  
+
 PASS= yyy
 
 where you will add your Jenkins (xxx)username and (yyy)password.
